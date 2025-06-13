@@ -6,11 +6,24 @@
   
 Link: 
 ## Project Setup
-Since our project is built with Streamlit, the app is just one click away! Simply use the link provided to access it. If you encounter any technical issues, possibly due to Streamlit inactivity, please inform one of our team members.
+For our project, here is the setup of our project. The app is hosting on streamlit website.
+
+Visual Code:
+1. Install Python 3.8+ in visual code
+2. Download the 'website' folder
+3. Create a virtual environement
+4. Activate the environment
+5. install dependencies ('pip install -r requirements.txt')
+6. Run streamlit website! (streamlit run home.py)
 
 ## Project content
 1. Website: This can be used in both mobile and on a laptop, due to the responsive nature of streamlit.
---
+   css folder
+   images folder
+   best.pt (YOLO model)
+   home.py (home-page)
+   medications.csv (mock database)
+   requirements.txt
 
 ## Features:
 1. Chatbot that explains medical instructions with inbuilt translator.

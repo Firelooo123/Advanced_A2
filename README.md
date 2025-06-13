@@ -3,8 +3,6 @@
 ## Project overview
 * This solution is used to help detect medication labels on pills or prescriptions for elderly people. This labels will be translated with a built in translator to translate the information into the 4 common mother tongues of Singapore. They can then use a chatbot to explain the instructions to them. Through this, we hope to reduce medical non-adherence and allow the elderly to be more independent instead of relying on others to read and learn the medication labels
 
-  
-Link: 
 ## Project Setup
 For our project, here is the setup of our project. The app is hosting on streamlit website.
 

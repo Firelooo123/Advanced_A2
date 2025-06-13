@@ -17,6 +17,9 @@ Since our project is built with Streamlit, the app is just one click away! Simpl
 2. MediMatch Model extracts medication info from medication label and adds to a database for user to check.
 3. Allows user to check their medication history
 
+### Model Used Citation:
+1. Yolo (https://docs.ultralytics.com/)
+
 ## Contributing Members
 1. Jeremy Yeo
 2. Callum Fu

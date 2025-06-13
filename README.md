@@ -31,6 +31,9 @@ Visual Code:
 ### Model Used Citation:
 1. Yolo (https://docs.ultralytics.com/)
 
+### Take Note:
+1. Dataset is sensitive as it has sensitive information of family member names, so if u would like the dataset, please contact one of the team members
+
 ## Contributing Members
 1. Jeremy Yeo
 2. Callum Fu
